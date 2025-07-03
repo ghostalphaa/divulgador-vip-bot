@@ -1,0 +1,17 @@
+{
+  "users": {},
+  "channels": {},
+  "fixed_links": [],
+  "config": {
+    "min_members": 150,
+    "max_channels_per_user": 2,
+    "post_times": [
+      "03:00",
+      "06:00",
+      "09:00",
+      "12:00"
+    ]
+  },
+  "last_posted_message_ids": {},
+  "banned_users": []
+}
